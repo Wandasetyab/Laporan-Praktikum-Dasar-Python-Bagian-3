@@ -54,4 +54,4 @@ Penguasaan percabangan dan perulangan sangat krusial dalam pemrograman. Dengan m
 []
 Demonstrasi program dan penjelasan kodingan secara langsung dapat diakses pada tautan video berikut:
 
-**[🔗 Klik di sini untuk memutar video YouTube](Masukkan Tautan YouTube Di Sini)**
+**[🔗 https://youtu.be/v5oGSRkiWuM]**
