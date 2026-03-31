@@ -1,6 +1,7 @@
 # Laporan Praktikum: Dasar Python Bagian 3
 
-> **Tugas Individu 4 - Mata Kuliah Machine Learning** > Praktikum ini berfokus pada implementasi struktur kontrol dan pembuatan fungsi menggunakan bahasa pemrograman Python.
+> **Tugas Individu 4 - Mata Kuliah Machine Learning**
+> Praktikum ini berfokus pada implementasi struktur kontrol dan pembuatan fungsi menggunakan bahasa pemrograman Python.
 
 ---
 
